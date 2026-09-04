@@ -147,7 +147,7 @@ The API endpoints for the backend can be documented using tools like Postman or 
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the code style and include relevant tests.
 
-![LinkedIn](https://www.linkedin.com/in/habeeb-wasif-279654376/)
+[LinkedIn](https://www.linkedin.com/in/habeeb-wasif-279654376/)
 
 👨‍💻
 Happy coding!
